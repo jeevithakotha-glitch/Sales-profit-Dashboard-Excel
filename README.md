@@ -1,17 +1,22 @@
-Sales & Profit Dashboard
+Sales & Profit Dashboard(Excel)
 
-Project Overview:
-Interactive Excel dashboard for analyzing sales and profit performance.
+## Project Overview:
+This project is an interactive Sales & Profit Dashboard Excel to analyze business performance and identity trends in sales and profitability 
 
-Features:
+## Features:
 - Total Sales KPI
 - Total Profit KPI
-- Monthly Sales Trend
-- Region Analysis
+- Sales Trend Analysis
+- Business Insights
 - Interactive Slicers
 
-Tools Used:
+## Tools Used:
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
+
+## Key Learnings
+-Dashboard Design
+-Data Analysis
+-KPI Creation
